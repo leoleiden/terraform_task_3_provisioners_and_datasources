@@ -1,0 +1,17 @@
+[cite_start].terraform/ [cite: 1]
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.tfplan
+*.tfplans
+.terraformrc
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+.vscode/
+*.pem
+*.key
+*.pub
+.DS_Store
+[cite_start].git/ [cite: 1]
